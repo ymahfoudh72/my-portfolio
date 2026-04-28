@@ -10,20 +10,16 @@ export default function Home() {
      <section className="min-h-screen flex items-center justify-center px-6">
   <div className="max-w-5xl mx-auto text-center">
 
-    <p className="mb-4 text-sm tracking-widest uppercase">
-      Frontend Developer
-    </p>
+   
 
     <h1 className="text-6xl md:text-8xl font-bold leading-tight mb-6">
-      Building modern
+    Yasmine Mahfoudh
       <br />
 <span className="text-blue-600">
-web experiences
-</span>    </h1>
+Angular Developer | FullStack Developer</span>    </h1>
 
     <p className="text-xl max-w-2xl mx-auto mb-10">
-      Angular developer crafting scalable interfaces,
-      clean architecture and user-focused products.
+      Angular Developer with 3+ years of experience building scalable web applications using Angular, TypeScript, .NET and modern UI technologies.
     </p>
 
     <div className="flex justify-center gap-4">

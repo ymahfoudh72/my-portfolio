@@ -9,41 +9,26 @@ export default function About() {
       </h2>
 
       <p className="text-lg leading-8 mb-8">
-        Frontend developer with 3 years of experience
-        building web applications using Angular,
-        TypeScript and modern frontend architecture.
+       Passionate FullSatck developer specialized in Angular, reusable components, responsive interfaces and enterprise applications.
       </p>
 
-      <div className="grid md:grid-cols-3 gap-6">
+      <div className="grid md:grid-cols-1 gap-6">
         <div className="p-6 rounded-2xl shadow">
           <h3 className="font-semibold mb-3">
-            Frontend
-          </h3>
+            Skills          </h3>
 
           <p>
-            Angular, TypeScript, RxJS
-          </p>
+            Angular,Jest
+            TypeScript,
+            RxJS,
+            NgRx,
+            Bootstrap,
+            Tailwind CSS,
+            .NET,
+            Git  ,        </p>
         </div>
 
-        <div className="p-6 rounded-2xl shadow">
-          <h3 className="font-semibold mb-3">
-            UI
-          </h3>
-
-          <p>
-            Tailwind, Angular Material
-          </p>
-        </div>
-
-        <div className="p-6 rounded-2xl shadow">
-          <h3 className="font-semibold mb-3">
-            Tools
-          </h3>
-
-          <p>
-            Git, Docker, REST APIs
-          </p>
-        </div>
+        
       </div>
     </section>
   );

@@ -7,7 +7,7 @@ const projects = [
   },
 
   {
-    title: "Admin Dashboard",
+    title: "E-Commerce Application",
     description:
       "Analytics dashboard with authentication and role management.",
     tech: "Angular • Charts • APIs"
