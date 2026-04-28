@@ -12,7 +12,7 @@ export default function Home() {
 
    
 
-    <h1 className="text-6xl md:text-8xl font-bold leading-tight mb-6">
+    <h1 className="text-6xl md:text-5xl font-bold leading-tight mb-6">
     Yasmine Mahfoudh
       <br />
 <span className="text-blue-600">
